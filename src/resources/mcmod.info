@@ -1,0 +1,16 @@
+[
+{
+  "modid": "twbm_random_string",
+  "name": "Trip With Bagels Mod",
+  "description": "A modding mod.",
+  "version": "0.01",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bagels"],
+  "credits": "Thanks to TechoVision for the dope tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
