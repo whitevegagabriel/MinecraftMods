@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "twbm_random_string:blocks/cocaine_block"
+   }
+}
